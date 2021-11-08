@@ -1,0 +1,7 @@
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\obj\x86\Release\Cliente.Form1.resources
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\obj\x86\Release\Cliente.Properties.Resources.resources
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\obj\x86\Release\Cliente.csproj.GenerateResource.Cache
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\bin\Release\Cliente.exe
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\bin\Release\Cliente.pdb
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\obj\x86\Release\Cliente.exe
+C:\Users\super\AppData\Local\Temporary Projects\Cliente\obj\x86\Release\Cliente.pdb

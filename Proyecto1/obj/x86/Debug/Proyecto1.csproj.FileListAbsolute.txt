@@ -1,0 +1,16 @@
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\obj\x86\Debug\Proyecto1.csproj.GenerateResource.Cache
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\obj\x86\Debug\Proyecto1.exe
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\obj\x86\Debug\Proyecto1.pdb
+C:\Users\super\documents\visual studio 2010\Projects\Proyecto1\Proyecto1\obj\x86\Debug\Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\obj\x86\Debug\Proyecto1.exe
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\obj\x86\Debug\Proyecto1.pdb
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\obj\x86\Debug\Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\obj\x86\Debug\Cliente.Form1.resources
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\sorex\OneDrive\Escritorio\soproyectov2\Proyecto1\obj\x86\Debug\Proyecto1.csproj.GenerateResource.Cache
